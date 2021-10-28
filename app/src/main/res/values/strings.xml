@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chat Application</string>
+    <string name="chat_icon">Chat</string>
+</resources>
